@@ -1,0 +1,21 @@
+{
+    "app_name": "Test App",
+    "credentials": {
+        "username": "testuser",
+        "password": "password"
+    },
+    "db_connections": [
+        {
+            "type": "mysql",
+            "host": "localhost",
+            "username": "test",
+            "password": "password"
+        },
+        {
+            "type": "postgres",
+            "host": "localhost",
+            "username": "test",
+            "password": "password"
+        }
+    ]
+}
